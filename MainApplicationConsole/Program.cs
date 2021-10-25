@@ -7,7 +7,7 @@ namespace MainApplicationConsole
     {
         static void Main(string[] args)
         {
-            
+
         }
     }
 }
