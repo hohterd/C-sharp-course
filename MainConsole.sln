@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MainApplicationConsole", "M
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomClassesLibrary", "CustomClassesLibrary\CustomClassesLibrary.csproj", "{546688A9-6A5F-45D5-B1D8-6CDD3F625524}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParallelConsoleApp", "Parallel\ParallelConsoleApp.csproj", "{5A70F121-9105-43A9-A957-0AA45AAAB9A4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{546688A9-6A5F-45D5-B1D8-6CDD3F625524}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{546688A9-6A5F-45D5-B1D8-6CDD3F625524}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{546688A9-6A5F-45D5-B1D8-6CDD3F625524}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A70F121-9105-43A9-A957-0AA45AAAB9A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A70F121-9105-43A9-A957-0AA45AAAB9A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A70F121-9105-43A9-A957-0AA45AAAB9A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A70F121-9105-43A9-A957-0AA45AAAB9A4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
